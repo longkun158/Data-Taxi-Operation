@@ -13,27 +13,27 @@
 
 ## Column names:
 
-VendorID	
-pickup_datetime
-dropoff_datetime
-passenger_count
-trip_distance	
-pickup_longitude	
-pickup_latitude	
-RateCodeID	
-store_and_fwd_flag	
-dropoff_longitude	
-dropoff_latitude	
-payment_type	
-fare_amount	
-extra	mta_tax	
-tip_amount	
-tolls_amount
-improvement_surcharge
-total_amount	
-pickup_zip	
-pickup_borough	
-pickup_neighborhood	
-dropoff_zip
-dropoff_borough	
-dropoff_neighborhood
+- VendorID	
+- pickup_datetime
+- dropoff_datetime
+- passenger_count
+- trip_distance	
+- pickup_longitude	
+- pickup_latitude	
+- RateCodeID	
+- store_and_fwd_flag	
+- dropoff_longitude	
+- dropoff_latitude	
+- payment_type	
+- fare_amount	
+- extra	mta_tax	
+- tip_amount	
+- tolls_amount
+- improvement_surcharge
+- total_amount	
+- pickup_zip	
+- pickup_borough	
+- pickup_neighborhood	
+- dropoff_zip
+- dropoff_borough	
+- dropoff_neighborhood
