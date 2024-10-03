@@ -8,7 +8,7 @@
 - Exploratory data analysis was performed on the data set. Data cleaning, plots, chi-square test, ANOVA test, Tukey's HSD test, and Dunn's post hoc were used for the analysis
 
 ### Results:
-- Result of finding is presented as a ptx file included in the repository. 
+- Result of the finding is presented as a PowerPoint file included in the repository. 
 
 
 ## Column names:
